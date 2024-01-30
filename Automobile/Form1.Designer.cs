@@ -42,7 +42,7 @@
             // 
             // ACCENDI
             // 
-            this.ACCENDI.Location = new System.Drawing.Point(451, 179);
+            this.ACCENDI.Location = new System.Drawing.Point(123, 179);
             this.ACCENDI.Name = "ACCENDI";
             this.ACCENDI.Size = new System.Drawing.Size(89, 72);
             this.ACCENDI.TabIndex = 0;
@@ -52,7 +52,7 @@
             // 
             // SPEGNI
             // 
-            this.SPEGNI.Location = new System.Drawing.Point(451, 283);
+            this.SPEGNI.Location = new System.Drawing.Point(123, 257);
             this.SPEGNI.Name = "SPEGNI";
             this.SPEGNI.Size = new System.Drawing.Size(89, 72);
             this.SPEGNI.TabIndex = 1;
@@ -62,7 +62,7 @@
             // 
             // ACC
             // 
-            this.ACC.Location = new System.Drawing.Point(601, 179);
+            this.ACC.Location = new System.Drawing.Point(218, 179);
             this.ACC.Name = "ACC";
             this.ACC.Size = new System.Drawing.Size(89, 72);
             this.ACC.TabIndex = 2;
@@ -72,7 +72,7 @@
             // 
             // FRENO
             // 
-            this.FRENO.Location = new System.Drawing.Point(601, 283);
+            this.FRENO.Location = new System.Drawing.Point(218, 257);
             this.FRENO.Name = "FRENO";
             this.FRENO.Size = new System.Drawing.Size(89, 72);
             this.FRENO.TabIndex = 3;
@@ -82,7 +82,7 @@
             // 
             // AUM
             // 
-            this.AUM.Location = new System.Drawing.Point(752, 179);
+            this.AUM.Location = new System.Drawing.Point(313, 179);
             this.AUM.Name = "AUM";
             this.AUM.Size = new System.Drawing.Size(89, 72);
             this.AUM.TabIndex = 4;
@@ -92,7 +92,7 @@
             // 
             // DIM
             // 
-            this.DIM.Location = new System.Drawing.Point(752, 283);
+            this.DIM.Location = new System.Drawing.Point(313, 257);
             this.DIM.Name = "DIM";
             this.DIM.Size = new System.Drawing.Size(89, 72);
             this.DIM.TabIndex = 5;
@@ -103,7 +103,7 @@
             // MARCIA
             // 
             this.MARCIA.AutoSize = true;
-            this.MARCIA.Location = new System.Drawing.Point(769, 163);
+            this.MARCIA.Location = new System.Drawing.Point(332, 163);
             this.MARCIA.Name = "MARCIA";
             this.MARCIA.Size = new System.Drawing.Size(48, 13);
             this.MARCIA.TabIndex = 6;
@@ -111,7 +111,7 @@
             // 
             // T1
             // 
-            this.T1.Location = new System.Drawing.Point(451, 372);
+            this.T1.Location = new System.Drawing.Point(123, 335);
             this.T1.Name = "T1";
             this.T1.Size = new System.Drawing.Size(89, 20);
             this.T1.TabIndex = 7;
@@ -120,7 +120,7 @@
             // 
             // T2
             // 
-            this.T2.Location = new System.Drawing.Point(601, 372);
+            this.T2.Location = new System.Drawing.Point(218, 335);
             this.T2.Name = "T2";
             this.T2.Size = new System.Drawing.Size(89, 20);
             this.T2.TabIndex = 8;
@@ -129,7 +129,7 @@
             // 
             // T3
             // 
-            this.T3.Location = new System.Drawing.Point(752, 372);
+            this.T3.Location = new System.Drawing.Point(313, 335);
             this.T3.Name = "T3";
             this.T3.Size = new System.Drawing.Size(89, 20);
             this.T3.TabIndex = 9;
@@ -140,7 +140,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1702, 667);
+            this.ClientSize = new System.Drawing.Size(551, 458);
             this.Controls.Add(this.T3);
             this.Controls.Add(this.T2);
             this.Controls.Add(this.T1);
